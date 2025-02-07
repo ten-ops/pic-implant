@@ -174,7 +174,6 @@ done:
     ret
 ws2_32:
     db "ws2_32", 0
-    ; ret
 ip:
     db "192.168.8.128", 0
 cmd:
